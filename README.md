@@ -7,7 +7,7 @@
 ### 2. Clone repo
 
 ```
-$ git clone https://github.com/gcnaveen/ecommerce-nutrition-suppliments.git
+$ git clone https://github.com/cosmoverge/ecommerce-frontend.git
 ```
 
 
