@@ -15,7 +15,7 @@ $ git clone https://github.com/cosmoverge/ecommerce-frontend.git
 
 ```
 # open new terminal
-$ cd ecommerce-nutrition-suppliments
+$ cd ecommerce-frontend
 $ npm install --force
 $ npm start
 ```
