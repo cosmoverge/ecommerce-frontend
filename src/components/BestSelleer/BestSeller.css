@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 100%;
+}
+
+.bestseller-container {
+  /* align-items: center; */
+}
+h2 {
+  font-weight: 500;
+  margin-bottom: 0.5em;
+  margin-left: 10em;
+}
